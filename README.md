@@ -1,3 +1,3 @@
 # WhiteBoard
 
-A white board made using HTML, CSS AND JavaScript
+A White Board made using HTML, CSS and JavaScript
